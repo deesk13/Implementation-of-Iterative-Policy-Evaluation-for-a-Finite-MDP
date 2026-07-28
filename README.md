@@ -242,13 +242,6 @@ The experiment demonstrates how a value function can be estimated by repeatedly 
 
 The number of iterations depends on the discount factor, convergence threshold, and environment transition probabiliti
 
-
-
-
-
-
-
-
 ---
 
 
