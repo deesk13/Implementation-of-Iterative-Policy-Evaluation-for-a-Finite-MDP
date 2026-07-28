@@ -237,11 +237,6 @@ Iterative policy evaluation was implemented successfully using the Gymnasium Fro
 
 ## Inference
 
-```
 The experiment demonstrates how a value function can be estimated by repeatedly applying Bellman's expectation equation until convergence.
 
 The number of iterations depends on the discount factor, convergence threshold, and environment transition probabiliti
-
----
-
-
